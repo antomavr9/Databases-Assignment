@@ -1,1 +1,0 @@
-This is an attempt to create a User Interface for the database. It is not a finished,functional product.
