@@ -1,0 +1,9 @@
+spaceport_code,name,location,type,owner
+C39A,"John F. Kennedy Space Center ","Florida, USA",Static,NASA
+SPX1,"Floating Platform 1","Atlantic Ocean",Floating,SpaceX
+G12G,"Aero 1",Medditeranean,Static,SpaceX
+RR12R,"Cosmos 100","Coloraro, USA",Floating,NASA
+HG564,"Launchpad C",Poland,Static,ESA
+KK567,"Launchpad B",Greece,Static,ESA
+PL123,GG100,Greenland,Floating,NASA
+FG23,"Launchpad A","French Guinea",Static,ESA

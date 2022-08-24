@@ -1,0 +1,9 @@
+mission_number,name,budget,client,purpose,spaceship_serial,launch_sp_code,launch_date,return_sp_code,return_date
+"12545,Helios2,""100,000,000"",Nasa,Exploration,4546T,IA2345,2021/2/12,457890K,2021/9/2"
+"67487,Mars9,""150,000,000"",ESA,Education,6576G,KL0907,2022/5/3,453627F,2022/9/23"
+"63457,JJ11,""100,000,000"",Nasa,Exploration,5342H,IJ4323,2020/12/25,436782D,2021/1/7"
+"42367,Moon3,""90,000,000"",SpaceX,Education,7584K,ER4857,2025/12/5,546782K,2026/5/1"
+"98034,AAB12,""88,000,000"",Nasa,Exploration,7238L,AA9230,2021/3/21,436789P,2021/2/25"
+"78249,JK90,""120,000,000"",Rota,Education,3125O,WE2367,2024/5/9,423678J,2024/6/23"
+"42678,PLA,""100,000,000"",WWO,Intelligence,6457L,YT4378,2022/8/9,324678H,2023/9/7"
+"85709,Orbit5,""125,000,000"",USAirforce,Intelligence,9878I,AW1453,2021/6/16,191816A,2021/8/30"

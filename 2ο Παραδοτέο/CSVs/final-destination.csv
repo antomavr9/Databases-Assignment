@@ -1,0 +1,9 @@
+destination_code,celestial_body,orbit,distance_from_sun,distance_from_earth
+ERT21P,Earth,"Geostationary Orbit","149,000,000","35,000,000"
+GHD98K,Mars,"Low Mars Orbit","227,000,000","56,000,000"
+FGW25F,Jupiter,"Elliptical Orbit","200,000,000","20,000,000"
+FEW45K,Earth,"Geostationary Orbit","173,000,000","109,000,000"
+FEG45L,Mars,"Elliptical Orbit","209,000,000","197,000,000"
+GHJ78I,Mars,"Geostationary Orbit","197,000,000","108,000,000"
+HDE56K,Jupiter,"Elliptical Orbit","435,000,000","398,000,000"
+JAS124,Thebe,"Elliptical Orbit","778,000,000","750,000,000"

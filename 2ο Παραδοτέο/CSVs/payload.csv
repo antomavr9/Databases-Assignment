@@ -1,0 +1,9 @@
+serial_number,type,initial_mass,final_mass,mission_number,destination_code,payload_release_date
+ERT21P,"Space Probe","41,000","40,000 ",12545,145TT,20/11/2019
+GHD98K,Sattelite,"39,000 ","30,000",67487,178FG,12/10/2020
+FGW25F,Spacecraft,"46,000 ","40,000 ",63457,437HH,7/3/2019
+FEW45K,Sattelite,"42,000 ","38,800 ",42367,283HJ,5/3/2020
+FEG45L,"Space Probe","40,000 ","36,000 ",98034,374FG,7/1/2020
+GHJ78I,Sattelite,"46,000 ","36,000 ",78249,438JH,17/11/2019
+HDE56K,"Space Probe","40,000 ","38,800 ",42678,349OL,18/9/2020
+JAS124,Spacecraft,"100,000 ","90,000 ",85709,876KK,22/6/2019
